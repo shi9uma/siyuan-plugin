@@ -1,3 +1,29 @@
+/* 上侧 */
+.ariaLabel[id="barBack"] {
+  display: none !important;
+}
+
+.ariaLabel[id="barForward"] {
+  display: none !important;
+}
+
+.ariaLabel[id="barPlugins"] {
+  display: none !important;
+}
+
+.ariaLabel[id="barCommand"] {
+  display: none !important;
+}
+
+.ariaLabel[id="barSearch"] {
+  display: none !important;
+}
+
+.ariaLabel[id="barZoom"] {
+  display: none !important;
+}
+
+/* 左侧 */
 .ariaLabel[data-type="inbox"] {
   display: none !important;
 }
@@ -14,6 +40,21 @@
   display: none !important;
 }
 
+/* 下侧 */
+.ariaLabel[id="statusHelp"] {
+  display: none !important;
+}
+
+/* 右侧 */
 .dock[id="dockRight"] {
+  display: none !important;
+}
+
+/* 已关闭笔记本 */
+.b3-list.fn__flex-column {
+  display: none !important;
+}
+
+.fn__flex .layout-tab-bar {
   display: none !important;
 }
