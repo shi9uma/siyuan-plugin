@@ -58,3 +58,36 @@
 .fn__flex .layout-tab-bar {
   display: none !important;
 }
+
+/* 菜单 */
+.b3-menu__item[data-id="panels"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="layout"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="dailyNote"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="riffCard"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="recentDocs"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="lockScreen"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="userGuide"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="feedback"] {
+  display: none !important;
+}
