@@ -1,0 +1,19 @@
+.ariaLabel[data-type="inbox"] {
+  display: none !important;
+}
+
+.ariaLabel[data-type="bookmark"] {
+  display: none !important;
+}
+
+.ariaLabel[data-type="tag"] {
+  display: none !important;
+}
+
+.ariaLabel[aria-label="取消钉住"] {
+  display: none !important;
+}
+
+.dock[id="dockRight"] {
+  display: none !important;
+}
