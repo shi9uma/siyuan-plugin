@@ -92,6 +92,11 @@
   display: none !important;
 }
 
+/* 右侧块滚动条 */
+.protyle-scroll {
+  display: none !important;
+}
+
 /* 右键菜单 */
 
 .b3-menu__item[data-id="ai"] {
@@ -139,6 +144,10 @@
 }
 
 .b3-menu__item[data-id="wechatReminder"] {
+  display: none !important;
+}
+
+.b3-menu__separator[data-id="b3-menu__separator"] {
   display: none !important;
 }
 
