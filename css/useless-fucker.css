@@ -59,7 +59,7 @@
   display: none !important;
 }
 
-/* 菜单 */
+/* 左上角菜单 */
 .b3-menu__item[data-id="panels"] {
   display: none !important;
 }
@@ -89,5 +89,59 @@
 }
 
 .b3-menu__item[data-id="feedback"] {
+  display: none !important;
+}
+
+/* 右键菜单 */
+
+.b3-menu__item[data-id="ai"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="addToDatabase"] {
+  display: none !important;
+}
+
+.b3-menu__separator[data-id="separator_2"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="enter"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="enterBack"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="insertBefore"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="insertAfter"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="jumpToParentNext"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="jumpToParentPrev"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="jumpToParent"] {
+  display: none !important;
+}
+
+.b3-menu__separator[data-id="separator_4"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="wechatReminder"] {
+  display: none !important;
+}
+
+.b3-menu__item[data-id="quickMakeCard"] {
   display: none !important;
 }
