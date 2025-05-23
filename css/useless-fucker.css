@@ -23,6 +23,14 @@
   display: none !important;
 }
 
+.div[class="protyle-breadcrumb__bar"] {
+  display: none !important;
+}
+
+.protyle-preview__action button[class="b3-tooltips b3-tooltips__w"] {
+  display: none !important;
+}
+
 /* 左侧 */
 .ariaLabel[data-type="inbox"] {
   display: none !important;
